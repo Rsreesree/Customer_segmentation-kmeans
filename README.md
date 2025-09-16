@@ -31,7 +31,8 @@ Pandas, NumPy – Data handling & preprocessing
 Matplotlib, Seaborn – Data visualization
 
 Scikit-learn – K-Means clustering
-[16-09-2025 18:32] Sree: 📈 Visualizations
+
+📈 Visualizations
 
 Some example plots generated in this project:
 
